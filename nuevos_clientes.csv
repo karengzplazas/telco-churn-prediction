@@ -1,0 +1,4 @@
+customerID,Gender,Senior_Citizen,Partner,Dependents,Tenure_Months,Phone_Service,Multiple_Lines,Online_Security,Online_Backup,Device_Protection,Tech_Support,Streaming_TV,Streaming_Movies,Paperless_Billing,Monthly_Charges,Total_Charges,Internet_Service_Fiber optic,Contract_Month-to-month,Contract_Two year,Payment_Method_Bank transfer (automatic),Payment_Method_Credit card (automatic),Payment_Method_Electronic check
+TEST_001,1,0,1,0,12,1,0,0,0,0,0,1,1,1,8970,10764,1,1,0,0,0,1
+TEST_002,0,1,0,0,48,1,1,1,1,1,1,0,0,0,4999,239952,0,0,1,0,1,0
+TEST_003,0,0,1,1,3,1,0,0,0,0,0,0,0,1,9950,2985,1,1,0,1,0,0
